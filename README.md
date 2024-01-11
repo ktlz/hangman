@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-
+![App Screen](https://github.com/ktlz/hangman/src/hangman.png?raw=true)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
